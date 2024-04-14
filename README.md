@@ -1,4 +1,4 @@
-This repository contains the implementation of algorithms developed in the following paper
+This repository contains the implementation of algorithms developed in the following paper:
 
 **"Distributed Accelerated Gradient Methods with Restart under Quadratic Growth Condition". \
 To Appear in Journal of Global Optimization, 2024.**
